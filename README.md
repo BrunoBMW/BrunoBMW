@@ -14,5 +14,5 @@ Aprendendo a desenvolver
     
  <!-- GIF -->
 <p align="left">
-  <img align="center" src=https://media.giphy.com/media/xdgisqRDFyO9G/giphy.gif?cid=ecf05e47qcpk6usbl566mtiu2ajryehn0mg8rup618e0v26y&ep=v1_gifs_search&rid=giphy.gif&ct=g alt="Imagem">
+  <img align="center" src=https://media.giphy.com/media/sSsKWDd1hcOc0/giphy.gif?cid=ecf05e47y1eiwcvl40v65ayp2ml2399kkhogjozbu26n57dq&ep=v1_gifs_search&rid=giphy.gif&ct=g alt="Imagem">
 </p>
