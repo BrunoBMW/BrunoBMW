@@ -14,5 +14,5 @@ Aprendendo a desenvolver
     
  <!-- GIF -->
 <p align="left">
-  <img align="center" src=https://www.google.com/imgres?q=https://media.tenor.com/ov3Jx6Fu-6kAAAAM/dark-souls-dance.gif alt="Imagem">
+  <img align="center" src=https://media.giphy.com/media/xdgisqRDFyO9G/giphy.gif?cid=ecf05e47qcpk6usbl566mtiu2ajryehn0mg8rup618e0v26y&ep=v1_gifs_search&rid=giphy.gif&ct=g alt="Imagem">
 </p>
